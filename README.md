@@ -3,6 +3,6 @@
  
 ### About me:
 
--  **Learning :** SDL2:	
+-  **Learning :** nothing :(	
 -  **Languages :** javascript,c++
 -  **Hobbies :** book :book:   Music :headphones:
